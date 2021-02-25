@@ -1,6 +1,6 @@
-package com.javarush.task.task33.task3310;
+package shortener;
 
-import com.javarush.task.task33.task3310.strategy.StorageStrategy;
+import shortener.strategy.StorageStrategy;
 
 /*
 * The class is a kind of Google URL Link shortener, such as https://goo.gl, but more functional.
